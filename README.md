@@ -147,16 +147,16 @@ In development · Product-managed end-to-end (scope, UX, feature specification) 
 ### GitHub Activity
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=Javeriaakram-07&show_icons=true&theme=dark&hide_border=true&count_private=true" height="165"/>
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Javeriaakram-07&layout=compact&theme=dark&hide_border=true" height="165"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=Javeriaakram-07&show_icons=true&theme=dark&hide_border=true&count_private=true&v=1" height="165"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Javeriaakram-07&layout=compact&theme=dark&hide_border=true&v=1" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Javeriaakram-07&theme=dark&hide_border=true" height="165"/>
+  <img src="https://streak-stats.demolab.com/?user=Javeriaakram-07&theme=dark&hide_border=true&v=1" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Javeriaakram-07&theme=react-dark&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Javeriaakram-07&theme=react-dark&hide_border=true&v=1" width="100%"/>
 </p>
 
 <!--START_SECTION:snake-->
