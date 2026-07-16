@@ -12,28 +12,58 @@
 
 ### About Me
 
-I'm a Computer Science student at **PUCIT** (Batch '28), holding the **CM Honhar Merit Scholarship**. I'm currently interning as a **Backend AI Engineering Intern at FlyRank**, and I'm actively building toward a career in **offensive security and AI system security**, with applied AI as a supporting skill rather than my primary focus.
+I'm a Computer Science student at **PUCIT** (Batch '28), holding the **CM Honhar Merit Scholarship**. I'm currently a **Backend AI Engineering Intern at FlyRank**, with a technical range that spans **full-stack web development, systems-level C++ engineering, and offensive security**, and I'm actively building toward AI system security as my long-term direction.
 
-I care about understanding systems well enough to break them safely, whether that's a web app, a network, or an AI pipeline, and I document what I learn along the way.
+I like understanding a system well enough, front-end, backend, or network, to know exactly how it can break.
 
-- 🔭 Currently building **[Talib](https://github.com/Javeriaakram-07/Talib)** — a student opportunity discovery platform (Product Manager: scope, features, and direction)
+- 🔭 Currently building **[Talib](https://github.com/Javeriaakram-07/Talib)** — a student opportunity discovery platform (Product Manager: scope, features, direction)
 - 🛡️ Currently sharpening offensive security skills through CTFs, DVWA, and OWASP-based practice
-- 🤖 Currently exploring AI system security and applied prompt engineering
 - 🌱 Active as a **GFG Campus Mantri** and **GSSoC Ambassador**
 - 📫 Reach me at **javeriaakram259@gmail.com**
 
 ---
 
-### Featured Projects
+### Featured Project
 
-| Project | Description |
+<table>
+<tr>
+<td width="120" align="center">🎓</td>
+<td>
+
+**[Talib — Student Opportunity Discovery Platform](https://github.com/Javeriaakram-07/Talib)**
+In development · Product-managed end-to-end (scope, UX, feature specification) · Submitted to the Punjab Youth Innovation and Incubation Competition 2026
+
+</td>
+</tr>
+</table>
+
+---
+
+### Software Engineering & Systems (C++)
+
+| Project | What it does |
 |---|---|
-| 🔗 [**Employee Payroll Management System**](https://github.com/Javeriaakram-07/Employee_payroll_Sysytem) | Full-stack payroll system (PostgreSQL, Supabase, Tailwind). Highest-graded project in my class cohort. |
-| 🔗 [**Talib**](https://github.com/Javeriaakram-07/Talib) | Student opportunity discovery web app — in development, product-managed by me, built with AI-assisted tools. |
-| 🔗 [**Cloudy Sniffer**](https://cloudysniffer.vercel.app/) | Real-time network packet capture and analysis tool (Python, Flask, Scapy, Npcap). |
-| 🔗 [**Cyber Management System**](https://github.com/Javeriaakram-07/Cyber-Management-System) | Console-based cybersecurity tool with authentication and session monitoring — independently rewritten from structured to OOP design. |
-| 🔗 [**Text Editor (WinAPI)**](https://github.com/Javeriaakram-07/Text_Editor) | Windows GUI text editor with Find & Replace and low-level Win32 API event handling. |
-| 🔗 [**Window Manager**](https://github.com/Javeriaakram-07/Window_manager) | Doubly linked list-based terminal UI simulating a desktop environment. |
+| [**Cyber Management System**](https://github.com/Javeriaakram-07/Cyber-Management-System) | Console-based admin tool; independently rewritten from structured to object-oriented design. |
+| [**Text Editor (WinAPI)**](https://github.com/Javeriaakram-07/Text_Editor) | Windows GUI text editor with Find & Replace, keyboard accelerators, low-level Win32 API handling. |
+| [**Window Manager**](https://github.com/Javeriaakram-07/Window_manager) | Doubly linked list-based terminal UI simulating a desktop environment. |
+| [**Infix to Postfix Evaluator**](https://github.com/Javeriaakram-07/Infix_to_Postfix_evaulator) | Stack-based expression converter/evaluator with operator precedence and parentheses handling. |
+| [**Offline Search Engine**](https://github.com/Javeriaakram-07/Offline-search-engine) | Offline keyword search engine with Levenshtein distance matching and history tracking. |
+
+### Web Applications
+
+| Project | What it does |
+|---|---|
+| [**Employee Payroll Management System**](https://github.com/Javeriaakram-07/Employee_payroll_Sysytem) | Full-stack payroll system (PostgreSQL, Supabase, Tailwind). **Highest-graded project in my class cohort.** |
+| [**Employee Payroll (Oracle variant)**](https://github.com/Javeriaakram-07/Employee_payroll_Sysytem_Oracle) | Relational payroll system built on Oracle SQL and PL/SQL for real-world payroll operations. |
+| **Badminton Hub** | Interactive scoreboard web app with manual scoring and 2/4-player modes. |
+| **Interactive Payment Card** | Responsive payment card UI with live validation and dynamic updates. |
+| **Sweet Shop Website & Blog** | E-commerce style storefront and companion blog with post categorization. |
+
+### Security & Networking
+
+| Project | What it does |
+|---|---|
+| [**Cloudy Sniffer**](https://cloudysniffer.vercel.app/) | Real-time network packet capture and analysis tool (Python, Flask, Scapy, Npcap), live service detection across protocols. |
 
 ---
 
@@ -48,6 +78,9 @@ I care about understanding systems well enough to break them safely, whether tha
 
 **Web & Backend**
 <p>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
 <img src="https://img.shields.io/badge/REST%20APIs-005571?style=flat-square"/>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
 <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/>
@@ -111,11 +144,25 @@ I care about understanding systems well enough to break them safely, whether tha
 
 ---
 
-### GitHub Stats
+### GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Javeriaakram-07&show_icons=true&theme=default&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Javeriaakram-07&layout=compact&hide_border=true" height="165"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=Javeriaakram-07&show_icons=true&theme=dark&hide_border=true&count_private=true" height="165"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Javeriaakram-07&layout=compact&theme=dark&hide_border=true" height="165"/>
 </p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Javeriaakram-07&theme=dark&hide_border=true" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Javeriaakram-07&theme=react-dark&hide_border=true" width="100%"/>
+</p>
+
+<!--START_SECTION:snake-->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Javeriaakram-07/Javeriaakram-07/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</p>
+<!--END_SECTION:snake-->
 
 <p align="center"><i>Currently building in public. Let's connect if you're working on security, AI systems, or backend engineering.</i></p>
