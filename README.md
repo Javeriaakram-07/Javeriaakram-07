@@ -1,8 +1,10 @@
 <h1 align="center">Hi, I'm Javeria Akram 👋</h1>
+
+<h3 align="center">CS Student · Pentester Intern @ Orzeh Technologies · AI Engineer</h3>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Javeriaakram-07" alt="Profile views"/>
 </p>
-<h3 align="center">CS Student · Pentester Intern @ Orzeh Technologies · Building toward Offensive Security</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/javeria-akram-10b607334"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -18,7 +20,6 @@ I'm a Computer Science student at **PUCIT** (Batch '28), holding the **CM Honhar
 
 I like understanding a system well enough, front-end, backend, or network, to know exactly how it can break.
 
-- 🔭 Currently building **[Talib](https://github.com/Javeriaakram-07/Talib)** — a student opportunity discovery platform (Product Manager: scope, features, direction)
 - 🛡️ Currently sharpening offensive security skills through CTFs, DVWA, and OWASP-based practice
 - 🌱 Active as a **GFG Campus Mantri** and **GSSoC Ambassador**
 - 📫 Reach me at **javeriaakram259@gmail.com**
@@ -28,15 +29,14 @@ I like understanding a system well enough, front-end, backend, or network, to kn
 ### Featured Project
 
 <table>
-<tr>
-<td width="120" align="center">🎓</td>
-<td>
-
-**[Talib — Student Opportunity Discovery Platform](https://github.com/Javeriaakram-07/Talib)**
-In development · Product-managed end-to-end (scope, UX, feature specification) · Submitted to the Punjab Youth Innovation and Incubation Competition 2026
-
-</td>
-</tr>
+  <tr>
+    <td width="250" align="center">
+      <a href="https://github.com/Javeriaakram-07/Employee_payroll_Sysytem"><strong>Employee Payroll Management System</strong></a>
+    </td>
+    <td>
+      Full-stack payroll system (PostgreSQL, Supabase, Tailwind). <strong>Highest-graded project in my class cohort.</strong>
+    </td>
+  </tr>
 </table>
 
 ---
@@ -55,7 +55,6 @@ In development · Product-managed end-to-end (scope, UX, feature specification) 
 
 | Project | What it does |
 |---|---|
-| [**Employee Payroll Management System**](https://github.com/Javeriaakram-07/Employee_payroll_Sysytem) | Full-stack payroll system (PostgreSQL, Supabase, Tailwind). **Highest-graded project in my class cohort.** |
 | [**Employee Payroll (Oracle variant)**](https://github.com/Javeriaakram-07/Employee_payroll_Sysytem_Oracle) | Relational payroll system built on Oracle SQL and PL/SQL for real-world payroll operations. |
 | **Badminton Hub** | Interactive scoreboard web app with manual scoring and 2/4-player modes. |
 | **Interactive Payment Card** | Responsive payment card UI with live validation and dynamic updates. |
