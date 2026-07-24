@@ -1,6 +1,8 @@
 <h1 align="center">Hi, I'm Javeria Akram 👋</h1>
-
-<h3 align="center">CS Student · Backend & AI Engineering Intern @ FlyRank · Building toward Offensive Security</h3>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Javeriaakram-07" alt="Profile views"/>
+</p>
+<h3 align="center">CS Student · Pentester Intern @ Orzeh Technologies · Building toward Offensive Security</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/javeria-akram-10b607334"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
